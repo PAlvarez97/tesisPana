@@ -1,2 +1,2 @@
 # tesisPana
-Archivos relacionados a la comunicacion
+Aplicación Móvil
